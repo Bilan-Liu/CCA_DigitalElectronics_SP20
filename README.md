@@ -9,12 +9,12 @@ Digital Electronics Homework&Exercise
 I'm interested in inserting music into my arduino project, so I'm concerned about how can I do this kind of project in the future.
 The author used the Arduino Nano as the base. Used the FFT library to decode the sound into octaves, FASTLed library to drive the led strips, and an old iPhone C case to hold it all together.
 
-https://create.arduino.cc/projecthub/buzzandy/music-reactive-led-strip-5645ed?ref=platform&ref_id=424_trending___&offset=88
+  - See this link: https://create.arduino.cc/projecthub/buzzandy/music-reactive-led-strip-5645ed?ref=platform&ref_id=424_trending___&offset=88
 ![images](Images/MusicReactiveLEDStrip.jpg)
 
 
 ## Week 1
-- Processing Sketch
+- Processing Sketch: I made a Catcher Game, you can hover the mouse to get more apples and gained scores in limited time.
 
 ![images](Images/FirstPage.png)
 ![images](Images/GamePage.png)
