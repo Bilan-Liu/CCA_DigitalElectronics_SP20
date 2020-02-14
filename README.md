@@ -2,7 +2,9 @@
 Digital Electronics Homework&Exercise
 
 ## Week 3
-- For this project, I would like to try something related to music by using Arduino. I've always wanted to learn how to play the piano, however, the real instrument is expensive and heavy to move. When I was told "You can use Arduino to play music" by professor, I'm so excited and wanted to have to have a try. 
+- For this project, I would like to try something related to music by using Arduino. I've always wanted to learn how to play the piano, however, the real instrument is expensive and heavy to move. When I was told "You can use Arduino to play music" by professor, I'm so excited and wanted to have to have a try.
+
+![images](Images/Images/Week3ArduinoProjectDesignConcept.pdf)
 
 ## Week 2
 - This is a Music Reactive LED strip, It was so cool that the strip can play the music and make it shine.
