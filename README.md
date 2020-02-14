@@ -11,5 +11,6 @@ The author used the Arduino Nano as the base. Used the FFT library to decode the
 
 ## Week 1
 - Processing Sketch
+
 ![images](Images/FirstPage.png)
 ![images](Images/GamePage.png)
