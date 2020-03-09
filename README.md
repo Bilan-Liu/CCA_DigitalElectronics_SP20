@@ -1,6 +1,53 @@
 # Bilan Liu_CCA_Digital Electronics_SP20
 Digital Electronics Homework&Exercise
 
+# Week5-7-The Reactive Music LED Strip
+
+
+I use two ultrasonic sensors to detect the no-pass distance. When people approach the first sensor, it will emit a cry of pain. The second sensor says "don't leave me" when people approach it. The red light goes on when people touch the touch sensor on the shield.
+
+I used the mp3 player to control the sound. There are two audio files corresponding to two sensors
+
+## Video Link: 
+
+
+## Things used in this project
+
+Arduino UNO 
+Sound Sensor
+
+
+### Features
+
+Sound reactive
+Rechargeable
+On/Off switch
+Programmable
+
+
+### input&output
+
+input——Sound sensor
+
+output——Led light，speaker
+
+### Punch List
+
+Must Have: 
+-Sound sensor
+
+-Speakers
+
+-Distance sensor
+
+-Led light
+
+Nice to Have:
+
+-According to the intensity the light can change to different colors
+
+
+
 ## Week 3
 - For this project, I would like to try something related to music by using Arduino. I've always wanted to learn how to play the piano, however, the real instrument is expensive and heavy to move. When I was told "You can use Arduino to play music" by professor, I'm so excited and wanted to have to have a try.
 
