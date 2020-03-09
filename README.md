@@ -6,7 +6,7 @@ Process Descritions:
 
 <p align="center">
 </p >
-![](Images/TouchSensor.gif)
+![Images](Images/TouchSensor.gif)
 
 ## Video Link: 
 
