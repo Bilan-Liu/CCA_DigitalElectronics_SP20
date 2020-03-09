@@ -2,19 +2,38 @@
 Digital Electronics Homework&Exercise
 
 # Week4-7-The Reactive Music LED Strip
-Process Descritions:
+
+Process Descriptions:
+
+Step1:
 
 <p align="center">
 </p >
 <img src = "./Images/TouchSensor.gif">
+
+I first connected the Adafruit Electret Microphone Amplifier to measure sound levels with the Arduino.
+
+The Microphone Amplifier mates an Electret Capsule Microphone with a MAX4466 Operational Amplifier optimized for use in microphone pre-amplifier applications.  The flexible supply voltage and and adjustable gain make this module adaptable to a wide variety of audio applications.
+
+Specifications:
+Supply Voltage: 2.4v-5v
+Output: Rail-to-Rail - up to to 5vp-p
+Frequency Response: 20Hz - 20 KHz
+Adjustable Gain 25x-125x
+
+Step2
+
+
 
 ## Video Link: 
 
 
 ## Things used in this project
 
+WS2812B Addressable Led Strip
 Arduino UNO 
 Sound Sensor
+Male And Female Jumper
 
 
 ### Features
