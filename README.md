@@ -2,11 +2,11 @@
 Digital Electronics Homework&Exercise
 
 # Week4-7-The Reactive Music LED Strip
+Process Descritions:
 
-
-I use two ultrasonic sensors to detect the no-pass distance. When people approach the first sensor, it will emit a cry of pain. The second sensor says "don't leave me" when people approach it. The red light goes on when people touch the touch sensor on the shield.
-
-I used the mp3 player to control the sound. There are two audio files corresponding to two sensors
+<p align="center">
+</p >
+<img src = "./images/TouchSensor.gif">
 
 ## Video Link: 
 
