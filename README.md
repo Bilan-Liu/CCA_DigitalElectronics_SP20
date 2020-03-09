@@ -15,7 +15,7 @@ I first connected the Adafruit Electret Microphone Amplifier to measure sound le
 
 The Microphone Amplifier mates an Electret Capsule Microphone with a MAX4466 Operational Amplifier optimized for use in microphone pre-amplifier applications.  The flexible supply voltage and and adjustable gain make this module adaptable to a wide variety of audio applications.
 
-Specifications:
+-Specifications:
 Supply Voltage: 2.4v-5v
 Output: Rail-to-Rail - up to to 5vp-p
 Frequency Response: 20Hz - 20 KHz
@@ -30,10 +30,10 @@ Step2
 
 ## Things used in this project
 
-WS2812B Addressable Led Strip
-Arduino UNO 
-Sound Sensor
-Male And Female Jumper
+-WS2812B Addressable Led Strip
+-Arduino UNO 
+-Sound Sensor
+-Male And Female Jumper
 
 
 ### Features
