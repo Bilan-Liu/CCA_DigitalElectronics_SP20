@@ -1,7 +1,7 @@
 # Bilan Liu_CCA_Digital Electronics_SP20
 Digital Electronics Homework&Exercise
 
-# Week5-7-The Reactive Music LED Strip
+# Week4-7-The Reactive Music LED Strip
 
 
 I use two ultrasonic sensors to detect the no-pass distance. When people approach the first sensor, it will emit a cry of pain. The second sensor says "don't leave me" when people approach it. The red light goes on when people touch the touch sensor on the shield.
