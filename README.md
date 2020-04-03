@@ -26,6 +26,9 @@ Step2
 
 
 ## Video Link: 
+<p align="center">
+</p >
+<img src = "./Images/LED test.gif">
 
 
 ## Things used in this project
