@@ -28,7 +28,7 @@ Step2
 ## Video Link: 
 <p align="center">
 </p >
-<img src = "./Images/Led.gif">
+<img src = "./Images/Led2.gif">
 
 
 ## Things used in this project
