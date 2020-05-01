@@ -15,8 +15,8 @@ I used an ultrasonic module to control a plane in a game. The goal of the game i
 • Processing software 
 • the Arduino and Processing sketches 
 
-- ![images](Images/process2.png)
-- ![images](Images/Windowcatch.png)
+- ![images](Images/process2.jpg)
+- ![images](Images/windowcatch.png)
 - ![images](Images/process.png)
 
   
