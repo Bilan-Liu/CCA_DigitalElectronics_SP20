@@ -6,6 +6,8 @@ Digital Electronics Homework&Exercise
 
 I used an ultrasonic module to control a plane in a game. The goal of the game is simple : control the height of a plane, and try to avoid the clouds. The height of the plane is given by the hand.
 
+-You can check the final project link here:https://youtu.be/b-dBwRHSmGk
+
   
   ### Punch List
 • an Arduino card (UNO in this example)
