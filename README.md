@@ -1,6 +1,25 @@
 # Bilan Liu_CCA_Digital Electronics_SP20
 Digital Electronics Homework&Exercise
 
+## Final Project
+- Arduino is always a challenging course for me. In the last semester, I learned about processing, and I created a catcher game with processing in the end. For the Arduino Final project, I wanted to give it a try, too. I would like to create a "link" between a Processing sketch and an Arduino card.
+
+I used an ultrasonic module to control a plane in a game. The goal of the game is simple : control the height of a plane, and try to avoid the clouds. The height of the plane is given by the hand.
+
+  
+  ### Punch List
+• an Arduino card (UNO in this example)
+• an ultrasonic measurement module
+• breadboard wires
+• Arduino software 
+• Processing software 
+• the Arduino and Processing sketches 
+
+- ![images](Images/process2.png)
+- ![images](Images/Windowcatch.png)
+- ![images](Images/process.png)
+
+  
 # Week4-7-The Reactive Music LED Strip
 
 Process Descriptions:
